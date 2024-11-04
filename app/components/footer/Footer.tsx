@@ -88,9 +88,8 @@ export default function Footer() {
       </div>
       {/* Copyright text  */}
       <p className="text-center text-white opacity-50 mt-[1.5rem]">
-        Copyright @ 2024{" "}
-        <span className="text-red-500">Umawati Tech Sollution</span>. All Rights
-        Reserved
+        Copyright @ 2024 <span className="text-red-500"> Tech Sollution</span>.
+        All Rights Reserved
       </p>
     </div>
   );
